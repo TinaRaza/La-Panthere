@@ -655,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -745,6 +745,9 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black{
+    color: #000000!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -784,9 +787,13 @@ h4 {
     color: #F3976C!important;
 }
 
+.col-sm-12 .black{
+    color: #000000!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
